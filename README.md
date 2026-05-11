@@ -55,7 +55,7 @@ src/main/java/com/example/twitter_backend/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/twitter-backend.git
+git clone https://github.com/Bario72/twitter-backend.git
 cd twitter-backend
 ```
 
@@ -194,7 +194,7 @@ curl -X POST http://localhost:3000/api/tweet \
 
 ## Frontend
 
-This API is designed to work with **[twitter-ui](https://github.com/YOUR_USERNAME/twitter-ui)** &mdash; a React + TypeScript frontend.
+This API is designed to work with **[twitter-ui](https://github.com/Bario72/twitter-ui)** &mdash; a React + TypeScript frontend.
 
 CORS is pre-configured for `http://localhost:5173` (Vite dev server).
 
